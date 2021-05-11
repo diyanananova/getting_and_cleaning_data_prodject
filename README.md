@@ -31,5 +31,4 @@ In order to create the tdy data set `run_analysis.R` can be used. It download th
 - Create a second, independent tidy set with the average of each variable for each activity and each subject.
 - Write the data set to the `tidy_data.txt` file.
 
-The `tidy_data.txt` was created by running the `run_analysis.R` script using R version 3.4.4 (2018-03-15) Platform: x86_64-pc-linux-gnu (64-bit) Running under: Ubuntu 16.04.5 LTS
-This script requires the `dplyr` package (version 0.7.8 was used).
+
